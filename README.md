@@ -8,7 +8,7 @@ This repository showcases projects across ** QA Testing, Software Development, a
 ## Folder Structure
 - **QA_Tester/** ---> Manual Test Plans, Selenium Automation, API Testing.
 - **Software_Developer/** ---> CRUD Apps, Node.js projects, and utilities.
--**Data_Analytics/** ---> SQL queries, EDA, and dashboards.
+- **Data_Analytics/** ---> SQL queries, EDA, and dashboards.
 
 
 Each folder contains individual READMEs explaining the project, tools, and outcomes.
