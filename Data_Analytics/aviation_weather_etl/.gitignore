@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# env/config
+.env
+
+# data & artifacts (Keep raw out of git)
+data/raw/*
+logs/*
+*.log
+
+# jupyter
+.ipynb_checkpoints/
+
+# os/editor
+.DS_Store
+Thumbs.db
